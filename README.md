@@ -4,7 +4,7 @@ A simple Pokemon search app built with Next.js and TypeScript. Search for any Po
 
 ## Demo
 
-https://github.com/remotecreative/nextjs-pokemon-search/raw/main/demo/pokemon-app.mp4
+https://github.com/user-attachments/assets/68011e93-7ed5-4ecd-8dc8-4cd106faa645
 
 ## Features
 
